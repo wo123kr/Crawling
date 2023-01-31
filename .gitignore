@@ -1,0 +1,21 @@
+## 파일 무시
+test.txt
+key_config.py
+youtube_api_code.ipynb 
+
+## 다음과 같은 확장자는 전체 무시
+*.text
+*.exe
+*.zip
+*.png
+*.txt
+*.json
+*.csv
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.pptx
+
+## 폴더 무시
+test/
