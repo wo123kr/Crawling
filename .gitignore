@@ -1,9 +1,13 @@
 ## 파일 무시
 test.txt
 key_config.py
-youtube_api_code.ipynb 
+search_adoba_.py
+
+## 특정글자가 포함된 파일 무시
+*adoba*.py
 
 ## 다음과 같은 확장자는 전체 무시
+*.txt
 *.text
 *.exe
 *.zip
@@ -16,6 +20,12 @@ youtube_api_code.ipynb
 *.docx
 *.doc
 *.pptx
+*.spec
+*.pyc
+*.ppt
 
 ## 폴더 무시
 test/
+hi_seoul/
+# crawling/test 폴더 무시
+./crawling/test/
