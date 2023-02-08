@@ -2,6 +2,8 @@
 test.txt
 key_config.py
 search_adoba_.py
+test*.ipynb
+test*.py
 
 ## 특정글자가 포함된 파일 무시
 *adoba*.py
